@@ -1,0 +1,12 @@
+E:\код на жизнь\projekt3\bin\Debug\projekt3.exe.config
+E:\код на жизнь\projekt3\bin\Debug\projekt3.exe
+E:\код на жизнь\projekt3\bin\Debug\projekt3.pdb
+E:\код на жизнь\projekt3\obj\Debug\projekt3.csproj.AssemblyReference.cache
+E:\код на жизнь\projekt3\obj\Debug\projekt3.Form1.resources
+E:\код на жизнь\projekt3\obj\Debug\projekt3.Properties.Resources.resources
+E:\код на жизнь\projekt3\obj\Debug\projekt3.csproj.GenerateResource.cache
+E:\код на жизнь\projekt3\obj\Debug\projekt3.csproj.CoreCompileInputs.cache
+E:\код на жизнь\projekt3\obj\Debug\projekt3.exe
+E:\код на жизнь\projekt3\obj\Debug\projekt3.pdb
+E:\код на жизнь\projekt3\obj\Debug\projekt3.Laboratorna.resources
+E:\код на жизнь\projekt3\obj\Debug\projekt3.ProjectN3_68932.resources
